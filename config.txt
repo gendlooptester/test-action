@@ -1,0 +1,5 @@
+
+PROJECT_NAME=test-action
+test-action_VERSION_MAJOR=1
+test-action_VERSION_MINOR=2
+test-action_VERSION_PATCH=3
